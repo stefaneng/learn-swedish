@@ -3,6 +3,7 @@
 Learn Swedish based on the FSI Swedish Basic Course
 ![FSI Swedish Basic Course](http://i.imgur.com/jwDKeMp.png)
 
+[Original Book PDF](fsi_swedish_basic_course_text.pdf)
 
 [Preface](preface.md) (Note: Needs revision)
 
