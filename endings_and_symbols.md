@@ -79,6 +79,8 @@ att tal/a -ar -ade -at | to speak, speak(s), spoke, (have, had) spoken
 
 If the verb is irregular all forms are written out.
 
+Swedish | English
+--- | ---
 att stå, står, stod, stått | to stand, stand(s), stood, (have, had) stod
 
 Starting with Unit 10 the first three conjugations will be indicated by numbers only.
