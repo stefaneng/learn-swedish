@@ -1,0 +1,2 @@
+*.pdf filter=lfs -crlf
+*.mp3 filter=lfs -crlf
