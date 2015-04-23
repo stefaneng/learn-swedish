@@ -1,6 +1,6 @@
 # Learn Swedish
 
 Learn Swedish based on the FSI Swedish Basic Course
-![Imgur](http://i.imgur.com/jwDKeMp.png)
+![FSI Swedish Basic Course](http://i.imgur.com/jwDKeMp.png)
 
 
