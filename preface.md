@@ -56,7 +56,7 @@ We have tried to draw on this experienee in explaining the grammar and in painti
 Our happy Vikings are used to draw attention to same of the grammar points, and to make the task of learning Swedish grammar a little less serious.
 A dragon appears in places where we discuss something that may be unusually tricky.
 
-## How to Use the Tapes
+### How to Use the Tapes
 
 The tapes provide the oorrect pronunciation of the dialogs, narrative texts and grammar practices. 
 On the tapes each Unit begins with the diatog _For Listening Only_ to give you the chance to understand as muoh aB possible unaided. 
@@ -79,3 +79,37 @@ This is when you have to transfer your book-learning into something productive a
 When you speak, understand and read outside the cLassroom environment you have truly learned to communicate in your new language.
 
 Good luck in your Swedish enterprise!
+
+## Till Läraren
+
+Följande är ett förslag tl I I hur Swedish Baslc Course kan användas svenskundervisningen:
+
+### Uttal
+
+Ett utförligt kapItel med medföljande band inleder boken. Läraren bör naturligtvis gå igenom alla vIktiga punkter och hjälpa eleverna att få ett bra uttal från början.
+
+### Dialog
+
+#### Genomgång aV ny läxa
+
+Läraren I äser de nya orden och I åter e I everna upprepa dem I korus. Sedan I äser läraren en mening i taget och låter varje elev upprepa den. Här har läraren ett bra tlll- Uille att rätta och förklara uttalet. Det är väsentligt att vara mycket noggrann
+med uttalet i början så att eleverna inte grundlägger dåliga vanor. Vi beräknar att två eller tre sidor per dag är lagom för hemarbete. I början kan det vara fördel- aktigt tör eleverna att lära sig dIalogen utantill så att de automatiskt tIllgodogör sig rytmen, ordföljden och språkmönstret.
+
+#### Förhör av läxa
+
+Nästa dag kan man börja med att låta eleverna gå Igenom dialogen med den svenska texten övertäckt och med den engelska texten som minnesstöd. Man kan sedan låta eleverna ersätta en del ord i dialogen med andra ord som de lärt sig tidigare och öva olika former samtidigt som det grammatiska mönstret bIbehålls. Till sist slår eleverna Igen böckerna och använder dialogen i rollspel. Spontant rollspel passar
+inte för aIIa elever. Det kan tör en deI vara svårare att hitta på något att säga än att använda det nya språket korrekt. I sådana ta II är det I ämp 11 gt att använda s.k. "directed dialog," d.v.s. läraren talar om tör eleven på svenska (eller möj-
+Iigtvis på engelska) i indirekt form vad han/hon ska säga. Läraren kan också själv ställa frågor tlII eleverna med användande av ordförrådet j texten.
+
+### Grammatik
+
+Läraren går igenom de grammatiska punkter som tas upp I varje kapitel och eleverna arbetar självständigt hemma på övningarna med banden till hjälp. Grammatikavsnitten innehåller ett stort antal övningar i förhoppningen att eleven kan lära sig språkstrukturen genom
+att öva den och höra den så mycket som möj \ i gt. För att vara säker på att övn ingarna verkligen görs bör läraren då och då, utan varning, gå igenom dem i klassen.
+Efter kapitel 12 har vi frångått formatet med enbart dialog. Kapitel 13-16 utgör en övergång ti I I tidningsläsning. Svårighetsgraden stegras avsevärt 1 dessa stycken.
+Texterna kan med fördel användas tl I I läsning, översättning och diskussion. Diskussionen kan till exempel röra sig om olika seder och bruk, olika åsikter, politiska förhållanden, etc. Den kan också göras I ivl igare om läraren eller någon av eleverna intar en impopulär ståndpunkt. Med hjälp av banden kan eleverna också öva upp förmågan att lyssna och förstå.
+Kapitel 6 är avsett som ett prov på vad eleven lärt sig i kapitel 1-5. Vi rekommenderar att eIeven deIar upp kapiteI 6 i minst två sekt ioner för att nå bästa möj Iiga resuItat .
+Det är lämpligt att då och då under kursen gå ti Ilbaka och repetera och att inte ta
+för givet att eleverna har tillgodogjort sig allt som tidigare förekommit i boken eller diskuterats i klassen.
+Detta är endast vårt förslag tiII hur Swedish Basic Course kan användas. Vår förhopp- ning är att boken kan inspirera och uppmuntra läraren att använda sin egen fantasi på
+ett sätt som bäst passar de individuella eleverna i hans/hennes klass, och även klassens storlek. Låt fantasi och kreativitet komma ti II nytta. Tänk på möj I igheten att använda "propsll och att stimulera undervisningen genom att företa något fysiskt aktivt. ut- flykter, restaurangbesök, simulerad guidning på svenska, etc., kan erbjuda bra tillfällen att använda svenskan I real istiska situationer.
+Låt boken vara en hjälp I undervisningen och låt den inte diktera hur undervisningen ska gå tiII. Målet är att lära engelskspråkIga elever att förstå och uttrycka sig på svenska och den metod som når det resu Itatet är den rätta metoden. Lycka t i II !
