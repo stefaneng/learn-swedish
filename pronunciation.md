@@ -3,7 +3,7 @@
 [Tape A Audio Here](https://www.livelingua.com/fsi/Swedish/Basic/FSI%20-%20Swedish%20Basic%20Course%20-%20Guide%20to%20Pronunciation%20Tape%20A.mp3)
 
 This chapter is intended especially for the student who is learning Swedish on his or her own. 
-The accompanying tape is an integral part of this Unit, and henae must be used in conjunation with the following pages.
+The accompanying tape is an integral part of this Unit, and hence must be used in conjunction with the following pages.
 
 We have avoided using phonetic symbols in the book. 
 Instead we feel that the combination of the tape and the accompanying brief descriptions of how the sounds are produced will provide an appropriate basis for Swedish pronunciation.
@@ -17,7 +17,7 @@ Spending a little extra time in the beginning to get the Swedish sounds right is
 
 Many sounds in the Swedish language are similar to sounds used in English.
 A few sounds used in Swedish do not exist in English.
-We will be more concerned with sounds than with spelling, although sometimes the latter has to oome in.
+We will be more concerned with sounds than with spelling, although sometimes the latter has to come in.
 
 Let's begin by looking at and listening to the Swedish alphabet, which has 29 letters: 
 ```
@@ -62,7 +62,7 @@ Let's learn and practice long-short vowel differences in Swedish words.
 The purpose here is to learn to pronounce Swedish, not to learn to spell and not to learn vocabulary. 
 The translation furnished is just for your information. 
 Listen to the tape and read the words. 
-Close your mind to everything around you and pay elose attention to the way the voice on the tape pronounces the words. 
+Close your mind to everything around you and pay close attention to the way the voice on the tape pronounces the words. 
 Try to imitate the speaker. 
 If you are studying alone, have a mirror handy. 
 We'll tell you when you need it.
