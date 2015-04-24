@@ -266,7 +266,7 @@ The long A sound spelled with an "O" is unusual, but the short A sound spelled w
 - son (son)
 - kol (coal)
 - telefon (telephone)
-- mikrof*o*n (microphone)
+- mikrof**o**n (microphone)
 
 ##### Short Å sound spelled with a "O"
 - om (if)
