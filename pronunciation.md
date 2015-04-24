@@ -112,3 +112,45 @@ mat | matt
 tak | tack
 hal (slippery) | hall
 tal (speech) | tall (pine tree)
+
+### O
+
+#### Long O
+The long O is close to the English vowel in "troop" and "tomb." 
+Here are some words with long O. Try to make them _very long._
+
+  - krona (crown)
+  - sol (sun)
+  - bo (to live)
+  - stor (big)
+  - bok (book)
+  - fot (foot)
+  - bror (brother)
+  - god (good)
+  - ro (to row)
+  - mot (against)
+
+#### Short O
+The short Swedish O has the same quality as the long O but it is shorter. 
+Listen to the words with a short O and repeat after the tape.
+
+  - hon (she)
+  - moster (maternal aunt)
+  - ost (cheese)
+  - hotell (hotel)
+  - ond (evil)
+  - bomull (cotton)
+  - fort (fast)
+  - bonde (farmer)
+  - tom (empty)
+  - kort (card)
+
+Now we will practice a long and a short O so you can hear and learn the difference.
+
+Long O | Short O
+--- | ---
+krona | hon
+bok | ost
+bror | fort
+god | tom
+ro | kort
