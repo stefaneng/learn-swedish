@@ -213,3 +213,67 @@ brun | brunn
 ut | upp
 nu | under
 hus | buss
+
+### Å
+
+#### Long Å
+Long Å is similar to the English vowel sound in "four," "soar," "more," but much longer.
+Here are some words with a long Å
+
+  - år (year)
+  - måne (moon)
+  - stå (to stand)
+  - mål (goal)
+  - gå (to go)
+  - tråd (thread)
+  - båt (boat)
+  - tåg (train)
+  - hål (hole)
+  - våt (wet)
+
+#### Short Å
+The short Å is very similar to the vowel sound in the English words "song," "long," and "wrong," but shorter.
+
+- gång (time)
+- mått (measure)
+- lång (long)
+- måste (must)
+- sång (song)
+- ånga (stream)
+- hålla (to hold)
+- ålder (age)
+- många (many)
+- ångra (to regret)
+
+Now we'll say one word with the long Å and then one with the short Å.
+Listen and try to hear the difference in length.
+
+Long Å | Short Å
+--- | ---
+gå | gång
+år | sång
+hål | hålla
+måne | många
+båt | mått
+
+Remember that the Swedish name of this letter is "Å".
+
+
+The same sounds, both the Long Å and the short Å sound, are sometimes spelled with an "O". 
+The long A sound spelled with an "O" is unusual, but the short A sound spelled with an "O" is rather common.
+
+##### Long Å sound spelled with an "O"
+- son (son)
+- kol (coal)
+- telefon (telephone)
+- mikrof*o*n (microphone)
+
+##### Short Å sound spelled with a "O"
+- om (if)
+- som (who, which)
+- kopp (cupp)
+- komma (to come)
+- kosta (to cost)
+
+The vowels you have just practiced `A O U Å` are the "hard" vowels. 
+We will now continue with the other group of vowels, the "soft" vowels.
