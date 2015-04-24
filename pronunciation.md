@@ -154,3 +154,62 @@ bok | ost
 bror | fort
 god | tom
 ro | kort
+
+### U
+
+#### Long U
+The Swedish long U does not exist in English. 
+Now you can get out your mirror and use it while you do the following.
+Listen to the English word "yew." 
+Now say it very slowly and watch what your lips do at the end of it. 
+Keep your lips in this position.
+
+Now we'll make a little change, by dropping the "y" and emphasizing the "w":
+```
+U U U
+```
+Now we'll practice words with a long U.
+
+  - fru (wife)
+  - kul (fun)
+  - ut (out)
+  - sur (sour)
+  - nu (now)
+  - mus (mouse)
+  - hur (how)
+  - tur (luck)
+  - hus (house)
+  - brun (brown)
+
+#### Short U
+The short U sound has a different quality. 
+This time you don't need your mirror. 
+Say the English word sugar after the tape.
+```
+sugar sugar sugar
+```
+If you say it quickly the U will be very close to the Swedish short U. 
+Now listen to this Swedish word: `uggla` (owl). 
+Now we'll practice some other Swedish words with short U.
+
+  - frukt (fruit)
+  - upp (up)
+  - brunn (well)
+  - lunch (lunch)
+  - under (under)
+  - buss (bus)
+  - luft (air)
+  - tunn (thin)
+  - rum (room)
+  - mun (mouth)
+
+Now we'll say a word with a long U and one with a short U. 
+Look in the mirror and see what your mouth does.
+
+Long U | Short U
+--- | ---
+fru | frukt
+brun | brunn
+ut | upp
+nu | under
+hus | buss
