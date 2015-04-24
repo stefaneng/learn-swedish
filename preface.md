@@ -19,7 +19,7 @@ A special debt of gratitude is due Marianne L. Adams who, as FSI Publications Of
 Welcome to the world of Sweden, Swedes, and Swedish!
 
 You have obtained this book as a way to help you learn the Swedish language, and to help you prepare for Life and work in Sweden. 
-We hope that both these experienaes will be enjoyable for you, but before you begin we would Like you to know some facts about language study in general, and this book in particular.
+We hope that both these experiences will be enjoyable for you, but before you begin we would Like you to know some facts about language study in general, and this book in particular.
 
 
 The new *FSI Swedish Basic Course* has been written especially for the future U.S. diplomat in Sweden. 
@@ -46,23 +46,23 @@ Be sure you do the Practices *aloud*.
 
 Grammatical explanation should be thought of only as a tool when learning a foreign language. 
 But it is the key to understanding a structure and a system which might otherwise seem confusing. 
-Even though Swedish grammar and vocabulary are related to their English counterparts, a word-by-word translation from either language into the other does not neoessarily produce good sense. 
+Even though Swedish grammar and vocabulary are related to their English counterparts, a word-by-word translation from either language into the other does not necessarily produce good sense. 
 Because of important differences in ways we have of expressing the same thoughts, speakers of English and Swedish see each other as using different patterns of language. 
 It is therefore invaluable to learn Swedish patterns to the point where they become a real part of your speech, so that the difference between English and Swedish becomes natural to you.
 
 
 Over many years of teaching Swedish to English speaking students the teachers at FSI have noted consistent patterns of difficulty that an English speaker has in learning Swedish. 
-We have tried to draw on this experienee in explaining the grammar and in painting out the pitfalls. 
-Our happy Vikings are used to draw attention to same of the grammar points, and to make the task of learning Swedish grammar a little less serious.
+We have tried to draw on this experience in explaining the grammar and in painting out the pitfalls. 
+Our happy Vikings are used to draw attention to some of the grammar points, and to make the task of learning Swedish grammar a little less serious.
 A dragon appears in places where we discuss something that may be unusually tricky.
 
 ### How to Use the Tapes
 
-The tapes provide the oorrect pronunciation of the dialogs, narrative texts and grammar practices. 
-On the tapes each Unit begins with the diatog _For Listening Only_ to give you the chance to understand as muoh aB possible unaided. 
+The tapes provide the correct pronunciation of the dialogs, narrative texts and grammar practices. 
+On the tapes each Unit begins with the dialog _For Listening Only_ to give you the chance to understand as much as possible unaided. 
 Remember that it is just as important to understand what is being said as to produce your own sentences. 
 Following _For Listening Only_ there is a section called _For Learning_. 
-It contains the same dialog, but this time each new word is given with a pause, during which you are to repeat the word before the correct pronunoiation is confirmed. 
+It contains the same dialog, but this time each new word is given with a pause, during which you are to repeat the word before the correct pronunciation is confirmed. 
 The same pattern is then used for longer utterances. 
 Try to mimic the native speakers as closely as possible, paying elose attention to stress and intonation. 
 When an utterance is very long it will, be divided into two or more sentences, and then given in its entirety.
@@ -73,7 +73,7 @@ However, you will find that some practices can be done orally using only the tap
 In those instances, try to rely on what you hear on the tape and don't look at the book.
 
 Studying a Swedish textbook and Listening to the accompanying tapes does not guarantee mastery of the Swedish Language. 
-We hope that this book wiLL serve as one of many aids iu your endeavor and that you wiLL find numerous opportunities to practice your Swedish. 
+We hope that this book will serve as one of many aids iu your endeavor and that you will find numerous opportunities to practice your Swedish. 
 The best way of doing that is to close your book and put your vocabulary and grammar to use in real situations. 
 This is when you have to transfer your book-learning into something productive and meaningful. 
 When you speak, understand and read outside the cLassroom environment you have truly learned to communicate in your new language.
