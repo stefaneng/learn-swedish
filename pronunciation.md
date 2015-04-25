@@ -67,7 +67,10 @@ Try to imitate the speaker.
 If you are studying alone, have a mirror handy. 
 We'll tell you when you need it.
 
-## Hard Vowels A O U Å
+## Hard Vowels 
+```
+A O U Å
+```
 
 ### A
 
@@ -277,3 +280,51 @@ The long A sound spelled with an "O" is unusual, but the short A sound spelled w
 
 The vowels you have just practiced `A O U Å` are the "hard" vowels. 
 We will now continue with the other group of vowels, the "soft" vowels.
+
+## Soft Vowels 
+```
+E I Y Ä Ö
+```
+
+### E
+
+#### Long E
+Long E is a pure vowel. It is **not** the same as the vowel sounds in "say," "day," "gray," etc. Listen to the tape:
+```
+E E E E E
+```
+
+Now we'll practice the long E sound in some words. Be sure to make it very long.
+- se (to see)
+- ben (bone, long)
+- mer (more)
+- sen (late)
+- te (tea)
+- ren (clean)
+- paket (package)
+- brev (letter)
+- heta (to be called)
+- det (it, the)
+
+#### Short E
+The short E sound is almost the same as the vowel sound in the English words `rest`, `best`, `rent`, `send`, but shorter.
+- en (a, an)
+- hem (home)
+- fem (five)
+- men (but)
+- ett (a, an)
+- hetta (heat)
+- vem (who)
+- den (it, the)
+- mest (most)
+- igen (again)
+
+Now we'll say one word with a long E and one word with a short E
+
+Long E | Short E
+--- | ---
+det | den
+mer | men
+ben | en
+sen | hem 
+heta | hetta
