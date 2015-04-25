@@ -328,3 +328,46 @@ mer | men
 ben | en
 sen | hem 
 heta | hetta
+
+### I
+The Swedish `I` is similar to the vowel sounds in the English words `teak`, `seed`, `leave`, etc. Listen
+```
+I (eeyh) I (eeyh) I (eeyh)
+```
+
+#### Long I
+For the long I be sure to make it **very long**.
+- i (in)
+- tiga (to be silent)
+- vin (wine)
+- hit (here)
+- fin (fine)
+- vila (to rest)
+- vis (wise)
+- dit (there)
+- bil (car)
+- bit (piece)
+
+#### Short I
+The short Swedish I sound is similar in quality to long I, but much, much shorter.
+Listen to the short I sound in same Swedish words and repeat them.
+- vinn (win!)
+- hitta (to find)
+- finn (find!)
+- flicka (girl)
+- viss (certain)
+- min (my, mine)
+- tigga (to beg)
+- din (your, yours)
+- villa (house)
+- timme (hour)
+
+Now let's listen to one word with a long I and then one word with a short I.
+
+Long I | Short I
+--- | ---
+vin | vinn
+fin | finn
+vis | viss
+tiga | tigga
+vila | villa
