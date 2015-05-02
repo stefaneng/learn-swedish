@@ -8,8 +8,12 @@ Learn Swedish based on the FSI Swedish Basic Course
 
 ### Contents
 - [Preface](fsi_course/preface.md) (Note: Needs revision)
-- [Grammatical Terms](fsi_course/grammatical_terms.md) (Note: Not yet finished)
-- [Guide to Endings and Symbols](fsi_course/endings_and_symbols.md)
+  * [Grammatical Terms](fsi_course/grammatical_terms.md) (Note: Not yet finished)
+  * [Guide to Endings and Symbols](fsi_course/endings_and_symbols.md)
+- [Unit 1 - Getting Around](fsi_course/unit1)
+  * [Basic Sentences](fsi_course/unit1/basic_sentences.md) (TODO)
+  * [Points to Practice](fsi_course/unit1/points_to_practice.md) (TODO)
+  * [Practices](fsi_course/unit1/practices.md) (TODO)
 
 
 ## My Notes
