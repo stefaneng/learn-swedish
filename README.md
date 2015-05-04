@@ -12,7 +12,7 @@ Learn Swedish based on the FSI Swedish Basic Course
   * [Guide to Endings and Symbols](fsi_course/endings_and_symbols.md)
 - [Unit 1 - Getting Around](fsi_course/unit1)
   * [Basic Sentences](fsi_course/unit1/basic_sentences.md) (TODO)
-  * [Points to Practice](fsi_course/unit1/points_to_practice.md) (TODO)
+  * [Points to Practice](fsi_course/unit1/points_to_practice.md)
   * [Practices](fsi_course/unit1/practices.md) (TODO)
 
 
