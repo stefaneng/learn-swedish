@@ -25,9 +25,9 @@ en kopp kaffe kostar en krona
 ```
 
 Present tense is used to express an action that 
-a) is happening now (Jag äter nu - I'm eating now)
-b) happens repeatedly (jag äter smörgasar till lunch - I eat sandwiches for lunch) and, 
-c) sometimes, an action in the future (han kommer imorgon - he's coming tomorrow).
+- is happening now (Jag äter nu - I'm eating now)
+- happens repeatedly (jag äter smörgasar till lunch - I eat sandwiches for lunch) and, 
+- sometimes, an action in the future (han kommer imorgon - he's coming tomorrow).
 
 Notice that Swedish does not have the equivalent of the English continuous verb form (to be + verb + -ing). Example: `I am speaking` is simply `jag talar`.
 Infinitive:
